@@ -1,6 +1,6 @@
 #Property Finder - BootCamp Lecture 1
 
-- The book that we are going to use is = Go programming Langugage
+- The book that we are going to use is = Go programming Language
 
 - First Class Citizen and Second Class Citizen in programming = Make a research
 
