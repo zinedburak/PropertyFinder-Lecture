@@ -22,8 +22,6 @@ func main() {
 		fmt.Println(greeting)
 	}
 	anotherGreetPrinter(closure, "Burak Deniz")
-
-	// Todo Try to create a function that mimics the behavior of = (f o g o h)
 }
 
 func anotherGreetPrinter(function func(it string), name string) {
